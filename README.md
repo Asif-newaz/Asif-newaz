@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/asifnewaz0093/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/AsifNewaz0093">
+<!--     <a href="https://twitter.com/AsifNewaz0093"> -->
       <img src="https://camo.githubusercontent.com/bbf165f587afcae5951680bb65c6b78c74912e9576836e3e4fc05e99233b7b28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
     </a>
   </div>
